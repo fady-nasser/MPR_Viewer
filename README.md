@@ -102,7 +102,12 @@ nifti_orientation_classifier_full_model.h5   # (Optional) Default AI model file
 
 ## 🩺 Screenshot
 
-**
+   <p align="center">
+     <img src="assets/IMG-20251021-WA0042.jpg" alt="Load NIfTI" width="640">
+   </p>
+   <p align="center">
+     <img src="assets/IMG-20251021-WA0043.jpg" alt="Load NIfTI" width="640">
+   </p>
 
 ---
 
